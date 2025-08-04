@@ -1,0 +1,12 @@
+# Computer Vision and Hand Tracking
+mediapipe>=0.10.0
+opencv-python>=4.8.0
+
+# GUI Automation (optional for actual key simulation)
+pyautogui>=0.9.50
+
+# Numerical operations
+numpy>=1.24.0
+
+# Additional utilities
+Pillow>=9.0.0
